@@ -1,0 +1,45 @@
+nav {
+  background-color: white;
+  color: black;
+  font-weight: 500;
+  position: end;
+  padding: 20%;
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+h1 {
+  justify-content: center;
+  text-align: center;
+}
+
+p {
+  font-size: 20px;
+}
+.card-body {
+  margin-top: 7%;
+  text-align: center;
+}
+
+#appleLogo {
+  padding: 2.5px;
+  margin-bottom: 4px;
+}
+
+#playStoreLogo {
+  padding: 2.5px;
+  margin-bottom: 4px;
+}
+
+#sectionTestimonials {
+  margin: 3%;
+}
+
+#testimonialsIconsAndNumbers {
+  background-color: #f0f1f2;
+  align-items: center;
+}
+
+#testimonialsIconsAndNumbersTop {
+  background-color: #f0f1f2;
+}
