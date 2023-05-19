@@ -1,3 +1,8 @@
+section {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
 nav {
   background-color: white;
   color: black;
@@ -13,9 +18,17 @@ h1 {
   text-align: center;
 }
 
+#imageLeft {
+  width: 40%;
+  height: 300px;
+  padding: 1%;
+}
+
 p {
   font-size: 20px;
+  font-style: normal;
 }
+
 .card-body {
   margin-top: 7%;
   text-align: center;
@@ -35,11 +48,17 @@ p {
   margin: 3%;
 }
 
-#testimonialsIconsAndNumbers {
-  background-color: #f0f1f2;
-  align-items: center;
+#imageSectionTwoRight {
+  width: 100%;
+  height: 90%;
+  padding: 1%;
 }
 
-#testimonialsIconsAndNumbersTop {
-  background-color: #f0f1f2;
+h2 {
+  text-align: center;
+}
+
+.fiveStars {
+  width: 50%;
+  height: 10%;
 }
